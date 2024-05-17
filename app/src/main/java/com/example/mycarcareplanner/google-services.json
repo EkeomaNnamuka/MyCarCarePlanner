@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1044476134140",
+    "project_id": "mycarcareplanner",
+    "storage_bucket": "mycarcareplanner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044476134140:android:7a72db5168059101a10d79",
+        "android_client_info": {
+          "package_name": "com.example.mycarcareplanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDkAr0fUXDVQpUPJHmkBTruqKlnUvD5ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

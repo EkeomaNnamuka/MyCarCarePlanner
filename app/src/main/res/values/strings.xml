@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyCarCarePlanner</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_signup">Signup</string>
+    <string name="title_activity_log_in">Log_in</string>
+    <string name="welcome_to_mycarcare_planner">Welcome to MyCarCare Planner!</string>
+</resources>
